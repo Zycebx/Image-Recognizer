@@ -1,0 +1,22 @@
+.heading
+{
+    width:75%;
+    font-size:35px;
+    font-family:georgia;
+    letter-spacing:3px;
+}
+
+body
+{
+    background-image: linear-gradient(to right top, #370074, #3a0289, #3a059e, #370cb5, #2e14cc, #1340e1, #005ff2, #007bff, #00a2ff, #00bcec, #00cc95, #00d31b);
+    color:white;
+    font-family:trebuchet;
+    
+}
+
+.name_of_objects
+{
+    font-size:25px;
+    color:lime;
+    font-family:cursive;
+}
